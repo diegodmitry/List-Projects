@@ -1,4 +1,4 @@
-<h3 align="center">List Projects</h3>
+<h1 align="center">List Projects</h1>
 
 My motivation to do this project is to practice TypeScript and to manager my projects at Trybe.
 
