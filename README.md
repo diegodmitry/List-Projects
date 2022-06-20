@@ -1,4 +1,16 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">List Projects</h3>
+
+My motivation to do this project is to practice TypeScript and to manager my projects at Trybe.
+
+## I learned how to use:
+* classes;
+* abstraction;
+* inheritance;
+* interfaces;
+* encapsulation;
+* polymorphism;
+* enum;
+* type.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
